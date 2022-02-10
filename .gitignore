@@ -1,0 +1,11 @@
+Physical/.DS_Store
+Physical/YOLACT/.DS_Store
+Physical/YOLO/.DS_Store
+
+Prediction/.DS_Store
+Prediction/PredNet/.DS_Store
+Prediction/PredNet/Fujiyama_prednet/.DS_Store
+Prediction/PredNet/Fujiyama_prednet/quantitative_eval/.DS_Store
+Prediction/PredNet/pytorch_prednet/.DS_Store
+
+.DS_Store
